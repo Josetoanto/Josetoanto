@@ -36,7 +36,7 @@ Software developer with experience building complete digital products — from t
 
 I have led projects for local companies, educational institutions, and private clients, delivering solutions that **reduce manual work, automate processes, and scale without technical friction**.
 
-Beyond coding, I know how to communicate with decision-makers: I translate business requirements into functional architectures. I have founded **6 businesses in different sectors**, giving me a product and market perspective that most developers don’t have.
+Beyond coding, I know how to communicate with decision-makers: I translate business requirements into functional architectures. I have worked **6 businesses in different sectors**, giving me a product and market perspective that most developers don’t have.
 
 - 🔭 Freelance in automation and AI integration  
 - 🌱 Always exploring new cloud and mobile technologies  
