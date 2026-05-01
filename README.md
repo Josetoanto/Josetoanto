@@ -2,11 +2,8 @@
   <img src="https://raw.githubusercontent.com/Josetoanto/Josetoanto/main/POINT.gif" width="380" />
 </p>
 
-<h1 align="center">Que tal, ¿como estas?</h1>
-<h1 align="center"> Mucho gusto, a su servicio, Jose Flores</h1>
-
-
-
+<h1 align="center">Hey there, how are you?</h1>
+<h1 align="center"> Nice to meet you, at your service, Jose Flores</h1>
 
 <p align="center">
   <a href="https://instagram.com/Josetoanto">
@@ -24,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josetoanto&color=2D6A4F&style=flat-square&label=Visitas+al+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Josetoanto&color=2D6A4F&style=flat-square&label=Profile+Visits" />
 </p>
 
 ---
@@ -33,23 +30,23 @@
   <tr>
     <td width="55%" valign="top">
 
-### 🧑‍💼 Perfil Profesional
+### 🧑‍💼 Professional Profile
 
-Desarrollador de software con experiencia construyendo productos digitales completos — desde la pantalla que ve el usuario hasta el servidor que lo soporta.
+Software developer with experience building complete digital products — from the screen the user sees to the server that supports it.
 
-He liderado proyectos para empresas locales, instituciones educativas y clientes privados, entregando soluciones que **reducen trabajo manual, automatizan procesos y escalan sin fricciones técnicas**.
+I have led projects for local companies, educational institutions, and private clients, delivering solutions that **reduce manual work, automate processes, and scale without technical friction**.
 
-Además de programar, sé cómo hablar con los tomadores de decisiones: traduzco requerimientos de negocio en arquitecturas funcionales. He fundado **6 negocios en distintos sectores**, lo que me da una perspectiva de producto y mercado que la mayoría de los desarrolladores no tienen.
+Beyond coding, I know how to communicate with decision-makers: I translate business requirements into functional architectures. I have founded **6 businesses in different sectors**, giving me a product and market perspective that most developers don’t have.
 
-- 🔭 Freelance en automatización e integración de IA
-- 🌱 Siempre explorando nuevas tecnologías cloud y mobile
-- 🎯 Construyo soluciones reales, no solo código
-- 💬 Pregúntame sobre Android, FastAPI, OpenCV o WhatsApp API
+- 🔭 Freelance in automation and AI integration  
+- 🌱 Always exploring new cloud and mobile technologies  
+- 🎯 I build real solutions, not just code  
+- 💬 Ask me about Android, FastAPI, OpenCV, or WhatsApp API  
 
     </td>
     <td width="45%" valign="top" align="center">
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 #### 📱 Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -76,7 +73,7 @@ Además de programar, sé cómo hablar con los tomadores de decisiones: traduzco
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### 🧠 Arquitecturas
+#### 🧠 Architectures
 🧼 Clean Architecture &nbsp;·&nbsp; 📐 SOLID &nbsp;·&nbsp; ⚡ RESTful &nbsp;·&nbsp; 🔄 WebSockets
 
   </tr>
@@ -84,7 +81,7 @@ Además de programar, sé cómo hablar con los tomadores de decisiones: traduzco
 
 ---
 
-### 📌 Últimos Proyectos
+### 📌 Latest Projects
 
 <table>
   <tr>
@@ -92,45 +89,43 @@ Además de programar, sé cómo hablar con los tomadores de decisiones: traduzco
 
 **🎲 Dice Detector**
 
-Detección automática de dados en video usando binarización de frames, segmentación por color y conteo de puntos.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+Automatic detection of dice in video using frame binarization, color segmentation, and dot counting.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
 
 ---
 
 **🎬 Chroma Key FX**
 
-Procesamiento de video con reemplazo de fondo verde y efectos visuales personalizados por escena.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+Video processing with green screen replacement and custom visual effects per scene.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
 
+---
 
 **📱 Essentia App**
 
-Aplicación Android completa con autenticación, gestión de perfumes y arquitectura limpia lista para producción.
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+Full Android app with authentication, perfume management, and clean architecture ready for production.  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)  
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)  
 
 ---
 
 **🤖 WhatsApp Bot**
 
-Automatización de mensajería con lógica de chatbot por palabras clave y recordatorios programados.
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Messaging automation with chatbot logic based on keywords and scheduled reminders.  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
   </tr>
 </table>
-
-
 
 <p align="center">
   <img src="https://media2.giphy.com/media/l2JeblbdfRL0i2qOI/giphy.gif" width="300" />
 </p>
 
-
 <p align="center">
-  <em>"No solo escribo código — arquitecto soluciones, traduzco complejidad en valor de negocio y elevo el rendimiento de cualquier equipo."</em> 💡
+  <em>"I don’t just write code — I architect solutions, translate complexity into business value, and elevate the performance of any team."</em> 💡
 </p>
 
 <p align="center">
