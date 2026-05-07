@@ -5,7 +5,7 @@
   <a href="https://github.com/Josetoanto">
     <img src="https://img.shields.io/badge/GitHub-Josetoanto-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jose-antonio-rodriguez-flores-9381a12a1">
+  <a href="https://www.linkedin.com/in/jose-antonio-rodriguez-flores-9381a12a1">
     <img src="https://img.shields.io/badge/LinkedIn-Jose%20Antonio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
